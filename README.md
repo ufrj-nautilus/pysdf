@@ -8,7 +8,7 @@
 ```
 # The path should be to your specific workspace
 cd ~/catkin_ws/src
-git clone https://gitlab.com/nautilusufrj/pysdf.git
+git clone https://github.com/ufrj-nautilus/pysdf.git
 cd ..
 caktin_make
 source devel/setup.bash
